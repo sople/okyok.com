@@ -1,6 +1,6 @@
 ![logo](images/mall.svg)
 
-# mall-learning
+# Sople
 
 > mall学习教程，架构、业务、技术要点全方位解析。
 
