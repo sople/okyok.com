@@ -1,8 +1,8 @@
 ![logo](images/mall.svg)
 
-# Sople
+# Sople.cn
 
-> mall学习教程，架构、业务、技术要点全方位解析。
+> 电商系统架构、业务、技术要点全方位解析。
 
 mall项目（39k+star）是一套电商系统，使用现阶段主流技术实现。  
 涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、  

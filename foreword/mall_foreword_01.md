@@ -71,6 +71,3 @@ Lombok | 1.18.6 | 简化对象封装工具
 - sms_*：营销模块相关表
 - ums_*：会员模块相关表
 
-## 公众号
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)

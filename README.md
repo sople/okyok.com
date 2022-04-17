@@ -189,10 +189,3 @@ mall学习教程，架构、业务、技术要点全方位解析。mall项目（
 - [Swagger界面丑、功能弱怎么破？用Postman增强下就给力了！](reference/swagger_postman.md)
 - [干掉Navicat！MySQL官方客户端到底行不行？](reference/mysql_workbench.md)
 
-## 公众号
-
-学习不走弯路，关注公众号「**macrozheng**」，回复「**学习路线**」，获取mall项目专属学习路线！
-
-加微信群交流，公众号后台回复「**加群**」即可。
-
-![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
