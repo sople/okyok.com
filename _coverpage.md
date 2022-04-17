@@ -1,6 +1,6 @@
 ![logo](images/mall.svg)
 
-# Sople.cn
+# ComHub.cn
 
 > 电商系统架构、业务、技术要点全方位解析。
 
