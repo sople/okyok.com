@@ -1,5 +1,3 @@
-学习不走弯路，[关注公众号](#公众号) 回复「学习路线」，获取mall项目专属学习路线！
-
 # mall学习所需知识点
 
 > 由于mall项目涉及到很多知识点，比如SpringBoot、ElasticSearch、Redis、Mongodb等，本教程不会详细讲述这些，只会讲述本项目相关部分，所以推荐以下资料。对其中一些知识点并不熟悉的同学，可以看下下面推荐的资料。
@@ -9,7 +7,7 @@
 ### IDEA
 《IntelliJ-IDEA-Tutorial》：[https://github.com/judasn/IntelliJ-IDEA-Tutorial](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 > 特别全的IDEA使用教程，可以学到很多实用的技巧。
-
+  
 ### Spring
 《Spring实战（第4版）》：[https://book.douban.com/subject/26767354/](https://book.douban.com/subject/26767354/)
 >经典的、畅销的Spring学习和实践指南,从此书可以学习到Spring的实用用法，对Spring有个整体的了解，推荐整本阅读。
