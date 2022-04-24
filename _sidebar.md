@@ -3,7 +3,7 @@
   * [mall学习所需知识点](foreword/mall_foreword_02.md)
 
 * 基本技术
-  * [SpringBoot]()
+  * [SpringBoot](reference/spring_boot/spring_boot.md)
   * [SpringSecurity]()
   * [MyBatis]()
   * [MyBatisGenerator]()
