@@ -1,24 +1,7 @@
 * 序章
   * [mall架构及功能概览](foreword/mall_foreword_01.md)
   * [mall学习所需知识点](foreword/mall_foreword_02.md)
-
-* 基本技术
-  * [SpringBoot](reference/spring_boot/spring_boot.md)
-  * [SpringSecurity]()
-  * [MyBatis]()
-  * [MyBatisGenerator]()
-  * [PageHelper]()
-  * [Swagger-UI]()
-  * [ElasticSearch](reference/elasticsearch_start.md)
-  * [RabbitMq](reference/rabbitmq_start.md)
-  * [Redis]()
-  * [MongoDb](reference/mongodb_start.md)
-  * [Linux](reference/linux_command.md)
-  * [Docker](reference/docker_command.md)
-  * [MySQL](reference/mysql.md)
-  * [JWT]()
-  * [Druid]()
-  * [Lombok]()
+  * [电商系统学习路线](mine/mall_learning_path.md)
   
 * 系统架构
   * [整合SpringBoot+MyBatis搭建基本骨架](architect/mall_arch_01.md)

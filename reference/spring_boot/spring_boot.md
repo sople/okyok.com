@@ -49,7 +49,6 @@ public class MallTinyApplication {
         //负责引导应用程序启动
         SpringApplication.run(MallTinyApplication.class, args);
     }
-
 }
 ```
 @SpringBootApplication 注解是三个注解的结合体，拥有以下三个注解的功能：
@@ -80,7 +79,7 @@ public class MallTinyApplicationTests {
 ```
 ## 编写应用配置
 当我们需要微调自动配置的参数时，可以在application.yml文件中进行配置，比如微调下端口号。
-```java
+```yaml
 server:
   port: 8088
 ```
