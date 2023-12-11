@@ -1,6 +1,6 @@
 ![logo](images/mall.svg)
 
-# <font face="georgia">okYok.com</font>
+# <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: bold;">okYok.com</span>
 
 > 电商系统架构、业务、技术要点全方位解析。
 
