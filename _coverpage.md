@@ -1,7 +1,11 @@
 ![logo](images/mall.svg)
 
 # <font face="georgia">okyok.com</font>
-# <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: bold;"><span style="font-size: 12px;">OK</span>Y<span style="font-size: 12px;">OK</span>.com</span>
+# <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: bold;">
+<span style="color: #2d85f0;">OK</span>
+<span style="color: #f4433c;">Y</span>
+<span style="color: #2d85f0;">OK</span>
+<span style="">.com</span></span>
 
 > 电商系统架构、业务、技术要点全方位解析。
 
