@@ -1,6 +1,6 @@
 ![logo](images/mall.svg)
 
-# <font face="georgia">Sople.net</font>
+# <font face="georgia" style="color: #2d85f0;">Sople.net</font>
 
 > 网站建设中...
 
