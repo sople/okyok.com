@@ -1,6 +1,6 @@
 ![logo](images/mall.svg)
 
-# <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-weight: bold;"><span style="color: #2d85f0;">OK</span><span style="color: #f4433c;">Y</span><span style="color: #2d85f0;">OK</span><span style="color: #0aa858;">.com</span></span>
+# <font face="georgia">Sople.net</font>
 
 > 网站建设中...
 
